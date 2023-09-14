@@ -1,8 +1,15 @@
-# Fresh Game
-This is the configuration of a fresh game.  
-Essentially, there are no files present yet.  
-All other branches are naturally derived 
-from here.
+# Pacifist
+You know it, you love it - Undertales undisputedly 
+most beautiful route, the pacifist route. This branch 
+is the path from a fresh game to Undertales true 
+ending, without any resets. I also tried to go for 
+as many secrets as possible!
+
+In this branch, I opted to commit every moment the 
+game saves _anything_. Be that by manual player input 
+or by having met a character like sans for the first time. 
+This way, you can easily experience the changed dialogue 
+of characters rembering you!
 
 ---
 
