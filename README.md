@@ -1,8 +1,7 @@
-# Fresh Game
-This is the configuration of a fresh game.  
-Essentially, there are no files present yet.  
-All other branches are naturally derived 
-from here.
+# Rooms
+This is a collection of normally inaccessible rooms.
+The hightlight here is obviously Entry Number 17, 
+but there are a few cool debug rooms in here too!
 
 ---
 
