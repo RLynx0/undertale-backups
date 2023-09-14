@@ -1,8 +1,12 @@
-# Fresh Game
-This is the configuration of a fresh game.  
-Essentially, there are no files present yet.  
-All other branches are naturally derived 
-from here.
+# Genocide
+The one and only route where the world itself is your 
+enemy. This branch is the path from a fresh game to 
+ending the world, and barely bringing it back by 
+selling your soul.
+
+I was very careful to commit save files with decent 
+equipment before the major bosses, so you can experience 
+them without having to go buy healing items first.
 
 ---
 
