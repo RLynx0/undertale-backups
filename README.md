@@ -1,8 +1,9 @@
-# Fresh Game
-This is the configuration of a fresh game.  
-Essentially, there are no files present yet.  
-All other branches are naturally derived 
-from here.
+# Fun
+A collection of safe files with set fun events, 
+saved at the closest location to witnessing them. 
+If it doesn't work immediately, reset the files 
+a few times to the state they were in the commit. 
+A lot of fun events are random.
 
 ---
 
