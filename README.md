@@ -1,10 +1,14 @@
-# Hardmode
-This is a not so well known mode of Undertale, 
+# Hardmode Genocide
+Hardmode is a not so well known mode of Undertale, 
 accessible by naming the fallen human "Frisk". 
-Hard mode is confined to the Ruins, and mainly 
+It is confined to the Ruins, and mainly 
 features late-game monsters as well as a few 
-hard-mode-exclusive ones, instead of the regular 
+hardmode-exclusive ones, instead of the regular 
 Ruins monsters.
+
+The pacifist route works as it does normally. 
+Since hardmode is so small though, it doesn't 
+really matter what route you play XD.
 
 ---
 
