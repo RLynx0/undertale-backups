@@ -1,12 +1,7 @@
-# Genocide
-The one and only route where the world itself is your 
-enemy. This branch is the path from a fresh game to 
-ending the world, and barely bringing it back by 
-selling your soul.
-
-I was very careful to commit save files with decent 
-equipment before the major bosses, so you can experience 
-them without having to go buy healing items first.
+# Soulless Genocide
+This is what happens completing another Genocide route after
+having sold your SOUL once already. Subsequent playthrougs
+don't change anything about this ending.
 
 ---
 
