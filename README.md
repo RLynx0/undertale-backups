@@ -1,7 +1,6 @@
-# Soulless Genocide
-This is what happens completing another Genocide route after
-having sold your SOUL once already. Subsequent playthrougs
-don't change anything about this ending.
+# Soulless Pacifist
+This is what happens after completing a Pacifist route after
+having sold your SOUL at the end of a Genocide playthrough.
 
 ---
 
